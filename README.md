@@ -70,19 +70,6 @@ do BMC e utiliza o MAC como identificador do diretório da máquina.
                                        └─────────────────────────┘
 ```
 
-## 📁 Estrutura do projeto
-```text
-RMAGenLogGPU/
-│
-├── bin/
-│   └── ipmitool
-├── RMAGenLogGPU
-├── LOGs/
-│   └── <MAC_BMC>/
-│       └── Logs_<DATA>_<HORA>/
-└── README.md
-```
-
 ## 🚀 Utilização
 Executando o script
 ```text
