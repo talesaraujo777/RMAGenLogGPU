@@ -86,7 +86,14 @@ RMAGenLogGPU/
 ## 🚀 Utilização
 Executando o script
 ```text
+git clone https://github.com/talesaraujo777/RMAGenLogGPU.git
+
+cd RMAGenLogGPU
+
+chmod +x RMAGenLogGPU
+
 sudo ./RMAGenLogGPU
+
 ```
 ## 📦 Resultado da coleta
 
