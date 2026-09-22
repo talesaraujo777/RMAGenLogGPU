@@ -1,4 +1,10 @@
-# RMAGenLogGPU
+        ▄▄▄▄▄▄▄   ▄▄▄      ▄▄▄   ▄▄▄▄    ▄▄▄▄▄▄▄              ▄▄▄
+        ███▀▀███▄ ████▄  ▄████ ▄██▀▀██▄ ███▀▀▀▀▀              ███
+        ███▄▄███▀ ███▀████▀███ ███  ███ ███       ▄█▀█▄ ████▄ ███      ▄███▄ ▄████
+        ███▀▀██▄  ███  ▀▀  ███ ███▀▀███ ███  ███▀ ██▄█▀ ██ ██ ███      ██ ██ ██ ██
+        ███  ▀███ ███      ███ ███  ███ ▀██████▀  ▀█▄▄▄ ██ ██ ████████ ▀███▀ ▀████
+                                                                                ██
+                                                                              ▀▀▀
 
 Ferramenta para coleta automatizada de logs e informações de diagnóstico 
 de servidores equipados com GPUs NVIDIA. Desenvolvida para auxiliar nos 
