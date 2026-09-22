@@ -70,9 +70,9 @@ git clone https://github.com/talesaraujo777/RMAGenLogGPU.git
 
 cd RMAGenLogGPU
 
-chmod +x RMAGenLog.sh
+chmod +x RMAGenLogGPU.sh
 
-sudo ./RMAGenLog.sh
+sudo ./RMAGenLogGPU.sh
 
 ```
 ## 📦 Resultado da coleta
