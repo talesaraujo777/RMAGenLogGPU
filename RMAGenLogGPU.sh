@@ -30,7 +30,7 @@ EOF
 # ------------------------------------------------------------------------
 
 if sudo apt-get install -y ipmitool >/dev/null 2>&1; then
-    echo -e "RMAGenLog está em execução..."
+    echo -e "Executando RMAGenLogGPU..."
 else
     echo -e "${RED}[ERRO]${RESET} IPMITool não responde!" 
     ERROS=$((ERROS + 1))
