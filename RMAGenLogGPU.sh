@@ -273,15 +273,15 @@ echo -e "================================================================="
 echo -e "                       PROCESSO FINALIZADO"
 echo -e "================================================================="
 echo
-echo -e "Total de registros coletados: 16/$TOTAL"
-echo -e "Total de comandos que falhou: $ERROS"
+echo -e "Total de registros coletados: ${GREEN}16/$TOTAL"${RESET}
+echo -e "Total de comandos que falhou:${RED} $ERROS"${RESET}
 echo
 echo -e "LOGs estão localizados em:"
-echo -e "$LOG_DIR"
+echo -e "${YELLOW} $LOG_DIR"${RESET}
 echo
 
 if [ "$ERROS" -eq 0 ]; then
-    echo -e "Status: TODOS OS COMANDOS FORAM EXECUTADOS COM SUCESSO."
+    echo -e "${GREEN}Status: TODOS OS COMANDOS FORAM EXECUTADOS COM SUCESSO.${RESET}"
 else
     :
 fi
